@@ -18,7 +18,6 @@ Completed program should:
 - Include a method `display_info()` that prints the car's details
 - Create an instance of `Car` and call `display_info()`
 
-
 ### 🛠️ Add Methods and Interactions
 
 #### Description

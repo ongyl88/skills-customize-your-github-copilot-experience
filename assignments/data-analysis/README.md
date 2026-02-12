@@ -18,7 +18,6 @@ Completed program should:
 - Display the first 5 rows of the dataset
 - Show summary statistics (mean, median, etc.) for numeric columns
 
-
 ### 🛠️ Data Visualization and Insights
 
 #### Description
